@@ -1,0 +1,1 @@
+My project is a simple website "COR EA". It was done without a lot of knowledge and in a big hurry
